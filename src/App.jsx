@@ -1,7 +1,9 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '../public/vite.svg'
-import * as main from './playground/main';
+//import * as main from './playground/main';
+import * as main from './playground/minMaxSum';
+
 import './App.css'
 
 function App() {
